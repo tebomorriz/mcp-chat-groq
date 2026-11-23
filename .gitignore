@@ -21,3 +21,10 @@ Thumbs.db
 .idea/
 
 *.egg-info/
+
+# Testing and build artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
